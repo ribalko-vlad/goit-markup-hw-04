@@ -45,8 +45,8 @@ ul {
     color: #4d5ae5;
     margin-right: 76px;
     font-weight: 700;
-    color: #404bbf;
-    position: relative;
+   
+   
 }
 .info-link::after {
     content: '';
@@ -88,6 +88,8 @@ ul.header-info li:last-child {
     color: #2e2f42;
     padding: 24px 0 24px;
     display: block;
+    position: relative;
+    color: #404bbf;
 }
 
 .info-link:focus {
