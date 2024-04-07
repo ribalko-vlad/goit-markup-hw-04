@@ -181,6 +181,18 @@ ul.info li:last-child {
     overflow: hidden;
 }
 
+.div-primer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
+    
+}
+
 .primer {
     display: flex;
     margin-right: 24px;
