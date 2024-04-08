@@ -331,6 +331,13 @@ ul.primer li:last-child {
     text-align: center;
 }
 
+.score {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    
+}
+
 .product {
 
     letter-spacing: 0.02em;
