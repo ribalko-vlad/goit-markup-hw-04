@@ -474,6 +474,10 @@ p {
             transform: translateY(0%);
 }
 
+.banking:hover .stylish { 
+    transform: translateY(0%);
+}
+
 .app {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
