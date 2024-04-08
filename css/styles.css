@@ -411,7 +411,8 @@ background-color: #404bbf;
 
 }
 .stylish:hover{
-    transform: translateY(0%);
+    transform: translateY(0%); 
+
 }
 
 .portfolio {
@@ -450,9 +451,7 @@ p {
     
 
 }
-.info-four:hover{
-    transform: translateY(0%);
-}
+
 .pictur{
     position: relative;
     overflow: hidden;
