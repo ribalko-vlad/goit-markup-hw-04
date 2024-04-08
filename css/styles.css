@@ -450,6 +450,7 @@ p {
 .pictur{
     position: relative;
     overflow: hidden;
+    transform: translateY(0%);
     
 }
 
@@ -524,6 +525,7 @@ p {
 .social-class{
     width: 40px;
     height: 40px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 }
 .social-link{
@@ -545,5 +547,5 @@ p {
 }
 .info-log{
     fill: #f4f4fd;
-    
+
 }
