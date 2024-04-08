@@ -424,6 +424,11 @@ p {
     margin: 0;    
 
 }
+.pictur{
+    position: relative;
+    overflow: hidden;
+    
+}
 
 .banking {
     width: calc((100% - 48px) / 3);
