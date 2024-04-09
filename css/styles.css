@@ -214,8 +214,6 @@ ul.info li:last-child {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px 0 15px;
-    display: flex;
-    align-items: baseline;
 }
 
 .section-two {
@@ -288,9 +286,6 @@ ul.primer li:last-child {
     gap: 24px;
     padding-left: 0;
     margin: 0;
-    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-            0px 1px 1px rgba(46, 47, 66, 0.16),
-            0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 .img {
@@ -342,6 +337,7 @@ ul.primer li:last-child {
     letter-spacing: 0.02em;
     color: #434455;
     text-align: center;
+    margin-bottom: 15%;
 }
 
 .score {
@@ -521,6 +517,11 @@ p {
     color: #F4F4FD;
     letter-spacing: 0.02em;
     max-width: 264px;
+}
+
+.cont-one {
+    display: flex;
+    align-items: baseline;
 }
 
 .social{
